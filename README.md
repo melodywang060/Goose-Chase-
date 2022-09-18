@@ -1,5 +1,7 @@
 # Goose-Chase
 
+HackCMU Fall 2022 
+
 Many of you recall the difficulty of navigating college websites during the college application process, or remember your own university's website. 
 
 There are links that lead to everywhere, and links that lead to nowhere
